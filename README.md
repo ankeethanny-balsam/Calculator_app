@@ -10,7 +10,7 @@ this projects aims for practising my skills in javascript . It allows to do day 
 
 ## TECHNOLOGIES:- 💻
 - ##### Virtual Studio Code
--  ##### For storing Data [GitHub](https://github.com/)
+-  ##### For storing Data [GitHub](https://github.com/){:target="_blank"}
 -  ##### For Hosting & Deploying [netify](https://netify.com/)
 
 ## Specific Features:
